@@ -1,0 +1,10 @@
+date,campaign_name, channel, impressions, clicks, conversions, spend
+2024-01-01, Winter Sale, Google Search,50000,2400,180,1200
+2024-01-01, Winter Sale, Facebook Ads,70000,2100,130,950
+2024-01-01, Winter Sale, Instagram Ads,60000,1800,110,900
+2024-01-02, Winter Sale, Google Search,52000,2500,200,1300
+2024-01-02, Winter Sale, Facebook Ads,68000,2000,125,920
+2024-01-02, Winter Sale, Instagram Ads,61000,1750,105,880
+2024-01-03, Winter Sale, Google Search,54000,2600,210,1400
+2024-01-03, Winter Sale, Facebook Ads,69000,2050,140,980
+2024-01-03, Winter Sale, Instagram Ads,62000,1850,120,930
